@@ -1,0 +1,24 @@
+{
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_36faa0e194d3288643f7144dedd8e1b1"
+    },
+    "font awesome 6 free": {
+        "normal": "C:\\xampp\\htdocs\\resume\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_6_free_normal_cf2d7daaeabedac0226ae26fc7e4f075",
+        "900": "font_awesome_6_free_900_665c8d2ea728525da852b5cd3a1d51a5"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_36faa0e194d3288643f7144dedd8e1b1"
+    },
+    "font awesome 5 free": {
+        "900": "C:\\xampp\\htdocs\\resume\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_900_665c8d2ea728525da852b5cd3a1d51a5",
+        "normal": "font_awesome_5_free_normal_cf2d7daaeabedac0226ae26fc7e4f075"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_6aa5cc0b95be2651581a2d7ad4a9d038"
+    },
+    "poppins": {
+        "normal": "C:\\xampp\\htdocs\\resume\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_41eae6f88194706e4cb26de3ac737d8a",
+        "600": "C:\\xampp\\htdocs\\resume\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_600_154dcc58b1e77916e556017f33cbcd2e",
+        "bold": "poppins_bold_c611dfa86762dbed0a7fd1e3d5f1a36c"
+    }
+}
